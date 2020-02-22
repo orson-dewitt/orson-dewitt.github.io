@@ -1,7 +1,7 @@
 # Site
-name: "Orson De Witt"
-title: "Orson De Witt"
-description: 'The website of the developer of Egypt: Shattered Order and the author of Orca Hunting School.'
+name: "Орсон де Витт"
+title: "Орсон де Витт"
+description: 'Сайт разработчика видеоигры Egypt: Shattered Order и автора повести «Косатка. Школа охоты».'
 logo: 'assets/images/logo.png'
 logo-orangered: 'assets/images/logo-lightblue.png'
 logo-small: 'assets/images/logo-small.png'
@@ -20,8 +20,8 @@ email: 'author@orsondewitt.com'
 # Authors
 authors:
   Orson:
-    name: Orson
-    display_name: Orson
+    name: Орсон
+    display_name: Орсон
     avatar: 'assets/images/avatar.png'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: author@orsondewitt.com
