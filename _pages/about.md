@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Orson De Witt
+title: Об Орсоне
 permalink: /about
 comments: false
 ---
@@ -8,8 +8,8 @@ comments: false
 <div class="row justify-content-center">
 <div class="col-md-4 col-lg-3 pt-2">
 <div class="sticky-top sticky-top-80 text-sm-right text-center">
-<p class="text-center text-md-right"><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Orson De Witt" /></p>
-<p class="text-center text-xl-right"><a target="_blank" href="https://egypt.orcinusgames.com/" class="btn btn-danger mb-1">Gamedev</a> <a href="/" class="btn btn-warning mb-1">Author</a> <a href="" class="btn btn-info mb-1">Thermos</a></p>
+<p class="text-center text-md-right"><img class="shadow" src="{{site.baseurl}}/assets/images/orson.jpg" alt="Орсон де Витт" /></p>
+<p class="text-center text-xl-right"><a target="_blank" href="https://egypt.orcinusgames.com/" class="btn btn-danger mb-1">Разработчик игр</a> <a href="/" class="btn btn-warning mb-1">Писатель</a></p>
 </div>
 </div>
 <div class="col-md-8 col-lg-6 pr-5">
@@ -18,9 +18,9 @@ comments: false
 But the old moose had already died by the time Orson returned, so it's up to you to decide if the stories he invented are any good; if the task is complete; if the moose would be proud.<p>
 Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or follow him on
 
-<a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Follow on Instagram">Instagram</a>,
-<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Follow on Twitter">Twitter</a>, or
-<a href="https://www.goodreads.com/OrsonDeWitt" target="_blank" alt="Goodreads" title="Follow on Goodreads">Goodreads</a>
+<a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Подписаться на Instagram">Instagram</a>,
+<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Twitter">Twitter</a>, или 
+<a href="https://www.livelib.ru/author/853350-orson-de-vitt" target="_blank" alt="LiveLib" title="Лайвлиб">LiveLib</a>
 </p>
 
 <h4>Do you still write?</h4>
