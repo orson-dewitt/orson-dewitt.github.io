@@ -13,16 +13,14 @@ comments: false
 </div>
 </div>
 <div class="col-md-8 col-lg-6 pr-5">
-<p>Born and raised in the harsh environment of pine forests, Orson learned a thing or two about storytelling from a seasoned moose. Upon graduation, the moose gave him a task that would change the course of his life forever. It asked of Orson to venture out of the woods and find a story so marvelous it would keep the moose on its hooves. And thus he set off to face the unknown and find new pastures, filled to the brim with adventurous people and provocative stories. He worked as an orbital garbage man, cyber police officer, spam-bot and even a thermos, but nowhere could he find a story that would blow the socks off of the old moose. Until, one day, he discovered that the best story is not the one that you find, but the one you invent. 
+<p>Однажды, в одном из звериных городков, что уютно устроились посреди зачарованного леса, родился человек, которому, впервые за тысячи лет, предстояло пройти все испытания школы Великого Лося. Это и был Орсон, о котором вы читаете сейчас. Он был хорошим учеником: все задания сохатого он щелкал, как орешки. Но в его школу пришла злобная Сессия - гроза лесов, которая постановила, что его рассказам не хватает изюминки, которая сделала бы из Орсона настоящего рассказчика. Она приказала ему выйти в дикие города прилесья и найти свою судьбу. Итак, Орсон обошёл целый мир; он нашёл и приключения, и множество разных историй. Он даже успел поработать орбитальным мусорщиком, кибер-полицейским и термосом, но так и не нашёл своей изюминки. В горе и в печали возвращался он в родные края, когда, наконец, к нему пришло озарение. Изюминка была спрятана не во внешнем мире, а в нём самом, и его приключения позволили ему понять, что воистину важно, и дали возможность ему передать это через свои рассказы.
 </p><p>
-But the old moose had already died by the time Orson returned, so it's up to you to decide if the stories he invented are any good; if the task is complete; if the moose would be proud.<p>
-Let Orson know if his stories are any good via e-mail: <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> or follow him on
+Но звериный городок был уже не таким, каким Орсон его оставил. Лось ушёл учить своему мастерству зверей из параллельных миров, а его друзья разбежались по разным углам земли. Лишь Сессия осталась, и издала указ, что все рассказы Орсона впредь будут оценены лишь вами - читателями, и что вы должны присылать свои отзывы на его электронную почту, <a href="mailto:author@orsondewitt.com">author@orsondewitt.com</a> или оставлять их <a href="https://www.livelib.ru/author/853350-orson-de-vitt" target="_blank" alt="LiveLib" title="Лайвлиб">на ЛайвЛибе</a>, а также подписаться на его
 
-<a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Подписаться на Instagram">Instagram</a>,
-<a href="http://twitter.com/intent/follow?source=followbutton&variant=1.0&screen_name=OrsonDeWitt" target="_blank" alt="Twitter" title="Twitter">Twitter</a>, или 
-<a href="https://www.livelib.ru/author/853350-orson-de-vitt" target="_blank" alt="LiveLib" title="Лайвлиб">LiveLib</a>
+<a href="http://instagram.com/OrsonDeWitt" target="_blank" alt="Instagram" title="Подписаться на Instagram">инстаграм</a> и
+<a href="http://twitter.com/intent/follow?source=followbutton&var.." target="_blank" alt="Twitter" title="Twitter">твиттер</a>.
 </p>
 
-<h4>Do you still write?</h4>
-<p>I do, but I don't publish. After having self-published 2 works, a novel and a novelette, I've decided to take it up a notch and redirect my efforts into game development, which I've been very passionate about for as long as I can remember. Hence, all my time is dedicated to the interactive fiction/strategy video game <strong><a target="_blank" href="https://egypt.orcinusgames.com/" title="Visit the website">Egypt: Shattered Order</a></strong>. If you wish to follow its development, I invite you to subscribe to the newsletter. Thanks!</p>
-{% include subscribe.html %}
+<h4>Что же теперь?</h4>
+<p>Орсон всё ещё пишет, но редко на русском. Сейчас он работает над приключенческой игрой-стратегией <strong><a target="_blank" href="https://egypt.orcinusgames.com/" title="посетить веб-сайт">Egypt: Shattered Order</a></strong>. Планируется, что игра будет переведена на русский язык, но, к сожалению, вся коммуникация ведётся только на английском. Если бы Вы хотели следить за разработкой игры и не пропустить её выпуск, вы можете подписаться на рассылку:</p>
+{% include subscribe.html %} 
