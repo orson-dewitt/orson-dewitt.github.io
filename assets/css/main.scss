@@ -51,7 +51,9 @@ a:hover, a:focus {color:#ff4500}
 }
 
 .dropdown-menu-right {min-width:4rem;}
-.mediumnavigation .dropdown-menu {background-color: #525864;}
+.dropright .dropdown-menu {background-color: #525864;}
+.dropright .dropdown-menu a {color:#fff;}
+.dropright .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#b486b5}
 
 //language switch for smaller screens
 @media screen and (max-width: 991px){
