@@ -37,7 +37,7 @@
 	font-weight: 600;
 }
 
-.dropdown-menu-right .dropdown-item {text-align:center;background-color: #525864;}
+.dropdown-menu-right .dropdown-item {text-align:center; width:8rem;}
 .books .dropdown-menu a {color:#000;}
 .books .dropdown-menu a:hover, .dropright .dropdown-menu a:focus {color:#000}
 .books h3 {text-align:left}
@@ -51,6 +51,7 @@ a:hover, a:focus {color:#ff4500}
 }
 
 .dropdown-menu-right {min-width:4rem;}
+.mediumnavigation .dropdown-menu {background-color: #525864;}
 
 //language switch for smaller screens
 @media screen and (max-width: 991px){
